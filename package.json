@@ -1,0 +1,19 @@
+{
+  "name": "binary-search-tree-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Binarysort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ningauble479/Binary-Search-Tree-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ningauble479/Binary-Search-Tree-Practice/issues"
+  },
+  "homepage": "https://github.com/Ningauble479/Binary-Search-Tree-Practice#readme"
+}
